@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-07-25)
+## Unreleased (2026-07-26)
 
 <section class="features">
 
@@ -22,6 +22,7 @@
 
 <details>
 
+-   [`b06219c`](https://github.com/stdlib-js/stdlib/commit/b06219c7a1fa57a41fa94841738a83f2d98f62bd) - **chore:** clean-up [(#13653)](https://github.com/stdlib-js/stdlib/pull/13653) _(by Philipp Burckhardt)_
 -   [`72cc422`](https://github.com/stdlib-js/stdlib/commit/72cc422f63246e16aad23b6d93ba01406a6267eb) - **feat:** add `stats/base/dists/anglit/pdf` [(#13642)](https://github.com/stdlib-js/stdlib/pull/13642) _(by Neeraj Pathak)_
 
 </details>
@@ -34,9 +35,10 @@
 
 ### Contributors
 
-A total of 1 person contributed to this release. Thank you to this contributor:
+A total of 2 people contributed to this release. Thank you to the following contributors:
 
 -   Neeraj Pathak
+-   Philipp Burckhardt
 
 </section>
 
